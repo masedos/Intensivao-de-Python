@@ -19,4 +19,4 @@ Entenda como funcionam os projetos de Ciência de Dados e Inteligência Artifici
 ### AULA 4 - 11/FEV/2021
 Como fazer Web Scraping no Python para obter todas as informações que você precisa em Automações Web
 
-#### intensivão: [hashtag treinamentos](https://pages.hashtagtreinamentos.com/inscricao-intensivao-de-python-org)
+#### | [intensivão hashtag treinamentos](https://pages.hashtagtreinamentos.com/inscricao-intensivao-de-python-org) | [youtube](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg) |
