@@ -1,5 +1,5 @@
-## INTENSIVÃO DE PYTHON
-### de 8 a 11 de Fevereiro
+## Intensivão de Python
+
 - Vire uma referência no Mercado de Trabalho por causa do Python
 - Saia do Zero e seja mais valorizado em qualquer empresa em 4 dias
 - Construa 4 Projetos do Zero com Python: Ciência de Dados, Inteligência Artificial, Automação de Processos e Web
